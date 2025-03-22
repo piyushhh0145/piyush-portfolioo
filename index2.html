@@ -210,7 +210,7 @@
       <p><strong>BBA in Business Analytics (2022-2025)</strong><br>
          Manav Rachna University | IoA-UK Partnership<br>
          Current CGPA: 6.87</p>
-      <p><strong>12th Grade - CBSE</strong><br>
+      <p><strong>12th Grade - HBSE</strong><br>
          K.L. Mehta School, 2021<br>
          Percentage: 75%</p>
       <p>These credentials have equipped me with a strong analytical foundation and a global perspective, empowering me to deliver data-driven solutions and support strategic decision-making.</p>
